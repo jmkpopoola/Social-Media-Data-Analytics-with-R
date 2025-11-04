@@ -187,10 +187,7 @@ can chose the number of clusters. We have chosen to go with 12 as the number of 
 
 **Observation:** The trend of the number of tweets in three months. During may the trend changes dramatically and there are three highest number of tweets in may.
 
-# 3. Report
 
-After conducting our analysis with the available data, we visualize and answer all of the above Analytical questions and consolidate them into the following concise report: [PDF](https://github.com/Thomas-George-T/Social-Media-Analytics-in-R/blob/main/Social-Media-Analytics.pdf)
-
-# 4. Summary
+# 3. Summary
 
 After careful analysis of 1.6 million worth of twitter data, We were able to decipher lot of emerging patterns and visualize them. We were able to gain valuable insights about our business questions through various plots,text analysis/mining, clustering, probability and time series data.
